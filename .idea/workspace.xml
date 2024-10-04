@@ -196,8 +196,26 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1727772875340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="ch 7 ex 3">
+      <option name="closed" value="true" />
+      <created>1728014647750</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1728014647750</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch 7 ex 3" />
