@@ -277,7 +277,14 @@
       <option name="presentableId" value="LOCAL−00015" />
       <updated>1728194544693</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL−00016" summary="ch7">
+      <option name="closed" value="true" />
+      <created>1728194874590</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1728194874590</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -294,6 +301,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ch 7 ex 3" />
     <MESSAGE value="add git" />
-    <option name="LAST_COMMIT_MESSAGE" value="add git" />
+    <MESSAGE value="ch7" />
+    <option name="LAST_COMMIT_MESSAGE" value="ch7" />
   </component>
 </project>
